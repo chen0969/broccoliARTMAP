@@ -17,8 +17,3 @@ hero:
       text: Useful APPs in Ottawa
       link: /app
 ---
-
-
-<script setup>
-import '/.vitepress/main.scss'
-</script>
