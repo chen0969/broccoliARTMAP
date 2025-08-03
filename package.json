@@ -9,6 +9,6 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "docs:serve": "vitepress serve",
-    "docs:deploy": "vitepress build && gh-pages -d .vitepress/dist"
+    "docs:deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist"
   }
 }
